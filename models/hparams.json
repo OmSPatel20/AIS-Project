@@ -1,0 +1,19 @@
+{
+  "data_dir": "processed",
+  "models_dir": "models",
+  "img_size": 224,
+  "batch_size": 32,
+  "epochs": 10,
+  "lr": 0.0002,
+  "weight_decay": 0.0001,
+  "amp": false,
+  "freeze_backbone": false,
+  "use_sampler": true,
+  "use_pos_weight": true,
+  "seed": 42,
+  "timestamp": "2025-11-25 01:26:46",
+  "proposal_doc": "/mnt/data/UFID45173502_AIS_PROJECT-PROPOSAL.docx",
+  "recommended_threshold": 0.4896075129508972,
+  "best_val_auc": 0.5054494399944099,
+  "completed_epochs": 10
+}

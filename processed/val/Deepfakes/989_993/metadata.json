@@ -1,0 +1,704 @@
+[
+    {
+        "frame": 0,
+        "src_frame_idx": 0,
+        "bbox": [
+            285,
+            72,
+            66,
+            90
+        ],
+        "left_eye": [
+            302,
+            105
+        ],
+        "right_eye": [
+            334,
+            103
+        ]
+    },
+    {
+        "frame": 1,
+        "src_frame_idx": 25,
+        "bbox": [
+            280,
+            67,
+            68,
+            92
+        ],
+        "left_eye": [
+            298,
+            101
+        ],
+        "right_eye": [
+            328,
+            101
+        ]
+    },
+    {
+        "frame": 2,
+        "src_frame_idx": 50,
+        "bbox": [
+            285,
+            68,
+            65,
+            92
+        ],
+        "left_eye": [
+            304,
+            101
+        ],
+        "right_eye": [
+            334,
+            102
+        ]
+    },
+    {
+        "frame": 3,
+        "src_frame_idx": 75,
+        "bbox": [
+            289,
+            81,
+            64,
+            93
+        ],
+        "left_eye": [
+            306,
+            115
+        ],
+        "right_eye": [
+            336,
+            115
+        ]
+    },
+    {
+        "frame": 4,
+        "src_frame_idx": 100,
+        "bbox": [
+            287,
+            73,
+            67,
+            91
+        ],
+        "left_eye": [
+            305,
+            106
+        ],
+        "right_eye": [
+            336,
+            105
+        ]
+    },
+    {
+        "frame": 5,
+        "src_frame_idx": 125,
+        "bbox": [
+            284,
+            73,
+            65,
+            88
+        ],
+        "left_eye": [
+            300,
+            106
+        ],
+        "right_eye": [
+            331,
+            104
+        ]
+    },
+    {
+        "frame": 6,
+        "src_frame_idx": 150,
+        "bbox": [
+            277,
+            69,
+            64,
+            90
+        ],
+        "left_eye": [
+            291,
+            101
+        ],
+        "right_eye": [
+            320,
+            100
+        ]
+    },
+    {
+        "frame": 7,
+        "src_frame_idx": 175,
+        "bbox": [
+            294,
+            68,
+            66,
+            91
+        ],
+        "left_eye": [
+            309,
+            101
+        ],
+        "right_eye": [
+            340,
+            104
+        ]
+    },
+    {
+        "frame": 8,
+        "src_frame_idx": 200,
+        "bbox": [
+            286,
+            73,
+            67,
+            92
+        ],
+        "left_eye": [
+            302,
+            106
+        ],
+        "right_eye": [
+            333,
+            107
+        ]
+    },
+    {
+        "frame": 9,
+        "src_frame_idx": 225,
+        "bbox": [
+            288,
+            72,
+            64,
+            89
+        ],
+        "left_eye": [
+            304,
+            105
+        ],
+        "right_eye": [
+            334,
+            105
+        ]
+    },
+    {
+        "frame": 10,
+        "src_frame_idx": 250,
+        "bbox": [
+            285,
+            93,
+            64,
+            85
+        ],
+        "left_eye": [
+            301,
+            129
+        ],
+        "right_eye": [
+            331,
+            126
+        ]
+    },
+    {
+        "frame": 11,
+        "src_frame_idx": 275,
+        "bbox": [
+            288,
+            84,
+            63,
+            88
+        ],
+        "left_eye": [
+            303,
+            119
+        ],
+        "right_eye": [
+            334,
+            118
+        ]
+    },
+    {
+        "frame": 12,
+        "src_frame_idx": 300,
+        "bbox": [
+            282,
+            80,
+            61,
+            87
+        ],
+        "left_eye": [
+            295,
+            115
+        ],
+        "right_eye": [
+            326,
+            114
+        ]
+    },
+    {
+        "frame": 13,
+        "src_frame_idx": 325,
+        "bbox": [
+            281,
+            79,
+            64,
+            88
+        ],
+        "left_eye": [
+            296,
+            113
+        ],
+        "right_eye": [
+            326,
+            112
+        ]
+    },
+    {
+        "frame": 14,
+        "src_frame_idx": 350,
+        "bbox": [
+            298,
+            70,
+            64,
+            91
+        ],
+        "left_eye": [
+            314,
+            102
+        ],
+        "right_eye": [
+            343,
+            106
+        ]
+    },
+    {
+        "frame": 15,
+        "src_frame_idx": 375,
+        "bbox": [
+            271,
+            74,
+            68,
+            95
+        ],
+        "left_eye": [
+            285,
+            107
+        ],
+        "right_eye": [
+            316,
+            106
+        ]
+    },
+    {
+        "frame": 16,
+        "src_frame_idx": 400,
+        "bbox": [
+            266,
+            77,
+            65,
+            91
+        ],
+        "left_eye": [
+            280,
+            111
+        ],
+        "right_eye": [
+            309,
+            111
+        ]
+    },
+    {
+        "frame": 17,
+        "src_frame_idx": 425,
+        "bbox": [
+            268,
+            77,
+            66,
+            92
+        ],
+        "left_eye": [
+            280,
+            110
+        ],
+        "right_eye": [
+            311,
+            108
+        ]
+    },
+    {
+        "frame": 18,
+        "src_frame_idx": 450,
+        "bbox": [
+            267,
+            73,
+            64,
+            90
+        ],
+        "left_eye": [
+            281,
+            107
+        ],
+        "right_eye": [
+            311,
+            106
+        ]
+    },
+    {
+        "frame": 19,
+        "src_frame_idx": 475,
+        "bbox": [
+            266,
+            74,
+            66,
+            93
+        ],
+        "left_eye": [
+            278,
+            108
+        ],
+        "right_eye": [
+            309,
+            106
+        ]
+    },
+    {
+        "frame": 20,
+        "src_frame_idx": 500,
+        "bbox": [
+            272,
+            75,
+            68,
+            91
+        ],
+        "left_eye": [
+            288,
+            109
+        ],
+        "right_eye": [
+            319,
+            104
+        ]
+    },
+    {
+        "frame": 21,
+        "src_frame_idx": 525,
+        "bbox": [
+            266,
+            69,
+            66,
+            89
+        ],
+        "left_eye": [
+            285,
+            100
+        ],
+        "right_eye": [
+            316,
+            98
+        ]
+    },
+    {
+        "frame": 22,
+        "src_frame_idx": 550,
+        "bbox": [
+            272,
+            80,
+            67,
+            91
+        ],
+        "left_eye": [
+            289,
+            118
+        ],
+        "right_eye": [
+            320,
+            114
+        ]
+    },
+    {
+        "frame": 23,
+        "src_frame_idx": 575,
+        "bbox": [
+            272,
+            70,
+            66,
+            92
+        ],
+        "left_eye": [
+            288,
+            105
+        ],
+        "right_eye": [
+            319,
+            104
+        ]
+    },
+    {
+        "frame": 24,
+        "src_frame_idx": 600,
+        "bbox": [
+            274,
+            69,
+            68,
+            91
+        ],
+        "left_eye": [
+            292,
+            102
+        ],
+        "right_eye": [
+            323,
+            100
+        ]
+    },
+    {
+        "frame": 25,
+        "src_frame_idx": 625,
+        "bbox": [
+            295,
+            57,
+            66,
+            93
+        ],
+        "left_eye": [
+            312,
+            91
+        ],
+        "right_eye": [
+            343,
+            94
+        ]
+    },
+    {
+        "frame": 26,
+        "src_frame_idx": 650,
+        "bbox": [
+            287,
+            63,
+            67,
+            93
+        ],
+        "left_eye": [
+            304,
+            95
+        ],
+        "right_eye": [
+            335,
+            98
+        ]
+    },
+    {
+        "frame": 27,
+        "src_frame_idx": 675,
+        "bbox": [
+            286,
+            83,
+            63,
+            89
+        ],
+        "left_eye": [
+            302,
+            118
+        ],
+        "right_eye": [
+            332,
+            118
+        ]
+    },
+    {
+        "frame": 28,
+        "src_frame_idx": 700,
+        "bbox": [
+            286,
+            78,
+            66,
+            92
+        ],
+        "left_eye": [
+            301,
+            114
+        ],
+        "right_eye": [
+            332,
+            113
+        ]
+    },
+    {
+        "frame": 29,
+        "src_frame_idx": 725,
+        "bbox": [
+            282,
+            79,
+            64,
+            90
+        ],
+        "left_eye": [
+            296,
+            113
+        ],
+        "right_eye": [
+            325,
+            114
+        ]
+    },
+    {
+        "frame": 30,
+        "src_frame_idx": 750,
+        "bbox": [
+            284,
+            76,
+            67,
+            93
+        ],
+        "left_eye": [
+            298,
+            110
+        ],
+        "right_eye": [
+            329,
+            109
+        ]
+    },
+    {
+        "frame": 31,
+        "src_frame_idx": 775,
+        "bbox": [
+            284,
+            73,
+            67,
+            93
+        ],
+        "left_eye": [
+            298,
+            107
+        ],
+        "right_eye": [
+            329,
+            107
+        ]
+    },
+    {
+        "frame": 32,
+        "src_frame_idx": 800,
+        "bbox": [
+            283,
+            75,
+            63,
+            89
+        ],
+        "left_eye": [
+            298,
+            109
+        ],
+        "right_eye": [
+            328,
+            111
+        ]
+    },
+    {
+        "frame": 33,
+        "src_frame_idx": 825,
+        "bbox": [
+            284,
+            59,
+            66,
+            92
+        ],
+        "left_eye": [
+            301,
+            93
+        ],
+        "right_eye": [
+            331,
+            94
+        ]
+    },
+    {
+        "frame": 34,
+        "src_frame_idx": 850,
+        "bbox": [
+            283,
+            71,
+            66,
+            92
+        ],
+        "left_eye": [
+            299,
+            106
+        ],
+        "right_eye": [
+            329,
+            106
+        ]
+    },
+    {
+        "frame": 35,
+        "src_frame_idx": 875,
+        "bbox": [
+            286,
+            72,
+            64,
+            87
+        ],
+        "left_eye": [
+            301,
+            103
+        ],
+        "right_eye": [
+            332,
+            103
+        ]
+    },
+    {
+        "frame": 36,
+        "src_frame_idx": 900,
+        "bbox": [
+            289,
+            73,
+            63,
+            87
+        ],
+        "left_eye": [
+            304,
+            106
+        ],
+        "right_eye": [
+            333,
+            107
+        ]
+    },
+    {
+        "frame": 37,
+        "src_frame_idx": 925,
+        "bbox": [
+            292,
+            97,
+            59,
+            78
+        ],
+        "left_eye": [
+            308,
+            128
+        ],
+        "right_eye": [
+            336,
+            127
+        ]
+    },
+    {
+        "frame": 38,
+        "src_frame_idx": 950,
+        "bbox": [
+            279,
+            96,
+            60,
+            80
+        ],
+        "left_eye": [
+            296,
+            127
+        ],
+        "right_eye": [
+            323,
+            127
+        ]
+    }
+]

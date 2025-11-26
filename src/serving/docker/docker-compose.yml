@@ -1,0 +1,37 @@
+version: "3.8"
+
+services:
+  web:
+    build:
+      context: ..            # build from repo root (one level up from docker/)
+      dockerfile: Dockerfile # adjust if your Dockerfile lives elsewhere
+    image: veritasai_web:latest
+    restart: unless-stopped
+    ports:
+      - "8000:8000"          # host:container (Gunicorn default here)
+    environment:
+      - ENV=production
+      - BENTOML_API_PORT=8000
+    volumes:
+      - ..:/app              # mount repo root into container for quick dev (remove for production)
+    command: >
+      sh -c "gunicorn -b 0.0.0.0:8000 wsgi:app --workers 3 --log-level info"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    ports:
+      - "9090:9090"
+    restart: unless-stopped

@@ -1,0 +1,6 @@
+flask
+prometheus-client
+gunicorn
+opencv-python
+ffmpeg-python
+werkzeug

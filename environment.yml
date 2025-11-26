@@ -1,0 +1,26 @@
+name: veritasai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - pytorch
+  - torchvision
+  - cudatoolkit
+  - pip:
+      - opencv-python
+      - ffmpeg-python
+      - albumentations
+      - tqdm
+      - scikit-learn
+      - grad-cam
+      - captum
+      - flask
+      - prometheus-client
+      - gunicorn
+      - bentoml
+      - psutil
+  - cpuonly

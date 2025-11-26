@@ -1,0 +1,272 @@
+[
+    {
+        "frame": 0,
+        "src_frame_idx": 0,
+        "bbox": [
+            392,
+            61,
+            91,
+            116
+        ],
+        "left_eye": [
+            413,
+            105
+        ],
+        "right_eye": [
+            455,
+            102
+        ]
+    },
+    {
+        "frame": 1,
+        "src_frame_idx": 25,
+        "bbox": [
+            392,
+            51,
+            96,
+            125
+        ],
+        "left_eye": [
+            415,
+            100
+        ],
+        "right_eye": [
+            458,
+            98
+        ]
+    },
+    {
+        "frame": 2,
+        "src_frame_idx": 50,
+        "bbox": [
+            385,
+            57,
+            96,
+            115
+        ],
+        "left_eye": [
+            409,
+            101
+        ],
+        "right_eye": [
+            452,
+            97
+        ]
+    },
+    {
+        "frame": 3,
+        "src_frame_idx": 75,
+        "bbox": [
+            379,
+            56,
+            93,
+            118
+        ],
+        "left_eye": [
+            401,
+            101
+        ],
+        "right_eye": [
+            444,
+            97
+        ]
+    },
+    {
+        "frame": 4,
+        "src_frame_idx": 100,
+        "bbox": [
+            374,
+            58,
+            96,
+            115
+        ],
+        "left_eye": [
+            396,
+            100
+        ],
+        "right_eye": [
+            438,
+            96
+        ]
+    },
+    {
+        "frame": 5,
+        "src_frame_idx": 125,
+        "bbox": [
+            374,
+            57,
+            97,
+            115
+        ],
+        "left_eye": [
+            397,
+            100
+        ],
+        "right_eye": [
+            439,
+            96
+        ]
+    },
+    {
+        "frame": 6,
+        "src_frame_idx": 150,
+        "bbox": [
+            373,
+            57,
+            97,
+            117
+        ],
+        "left_eye": [
+            395,
+            102
+        ],
+        "right_eye": [
+            438,
+            98
+        ]
+    },
+    {
+        "frame": 7,
+        "src_frame_idx": 175,
+        "bbox": [
+            379,
+            55,
+            96,
+            121
+        ],
+        "left_eye": [
+            401,
+            100
+        ],
+        "right_eye": [
+            445,
+            97
+        ]
+    },
+    {
+        "frame": 8,
+        "src_frame_idx": 200,
+        "bbox": [
+            388,
+            55,
+            94,
+            120
+        ],
+        "left_eye": [
+            408,
+            100
+        ],
+        "right_eye": [
+            452,
+            98
+        ]
+    },
+    {
+        "frame": 9,
+        "src_frame_idx": 225,
+        "bbox": [
+            386,
+            61,
+            89,
+            119
+        ],
+        "left_eye": [
+            408,
+            105
+        ],
+        "right_eye": [
+            449,
+            101
+        ]
+    },
+    {
+        "frame": 10,
+        "src_frame_idx": 250,
+        "bbox": [
+            384,
+            55,
+            97,
+            120
+        ],
+        "left_eye": [
+            406,
+            101
+        ],
+        "right_eye": [
+            448,
+            99
+        ]
+    },
+    {
+        "frame": 11,
+        "src_frame_idx": 275,
+        "bbox": [
+            385,
+            57,
+            94,
+            117
+        ],
+        "left_eye": [
+            408,
+            101
+        ],
+        "right_eye": [
+            450,
+            99
+        ]
+    },
+    {
+        "frame": 12,
+        "src_frame_idx": 300,
+        "bbox": [
+            393,
+            58,
+            93,
+            116
+        ],
+        "left_eye": [
+            413,
+            102
+        ],
+        "right_eye": [
+            456,
+            100
+        ]
+    },
+    {
+        "frame": 13,
+        "src_frame_idx": 325,
+        "bbox": [
+            379,
+            51,
+            102,
+            126
+        ],
+        "left_eye": [
+            406,
+            101
+        ],
+        "right_eye": [
+            452,
+            98
+        ]
+    },
+    {
+        "frame": 14,
+        "src_frame_idx": 350,
+        "bbox": [
+            380,
+            65,
+            92,
+            112
+        ],
+        "left_eye": [
+            400,
+            106
+        ],
+        "right_eye": [
+            442,
+            103
+        ]
+    }
+]
